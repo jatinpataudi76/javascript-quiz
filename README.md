@@ -31,4 +31,38 @@ manipulation.
 
 ---
 
-## File Structure
+---
+
+## How to Run the Project
+1. Open the project folder
+2. Double-click on index.html
+3. Open the browser console (Press *F12*)
+4. The quiz will start automatically using prompt boxes
+5. Answer the questions and view your final score
+
+---
+
+## Expected Output
+- Questions appear in prompt boxes
+- Immediate feedback is shown using alert boxes
+- Final score is displayed at the end of the quiz
+
+---
+
+## Learning Outcomes
+- Understanding of arrays and objects in JavaScript
+- Use of loops and conditional statements
+- Handling user input and output
+- Writing clean and reusable functions
+- Improving logical thinking and problem-solving skills
+
+---
+
+## Author
+*Jatin Kumar*
+
+---
+
+## Note
+This project is for academic learning purposes and follows the guidelines
+provided in the lab assignment.
